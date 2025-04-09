@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Joshana Shakya",
+    "section": "",
+    "text": "Hi, I’m Joshana, a machine learning engineer based in Kathmandu. When I’m not working, I enjoy watching movies and learning new natural languages."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "About this site"
+  }
+]
