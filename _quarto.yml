@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Joshana Shakya"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: About
+        href: about.qmd
+      # - research.qmd
+      # - blog.qmd
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/joshanashakya/
+      - icon: github
+        href: https://www.github.com/joshanashakya
+
+format:
+  html:
+    theme:
+      - pulse
+      - brand
+    css: styles.css
+    toc: true
+
+
+
