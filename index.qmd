@@ -1,3 +1,6 @@
 ---
-title: "Welcome"
----
+title: "Machine Learning, Data Structures, and Programming"
+title-block-banner: "	#E95420"
+--- 
+Hi, I'm Joshana. I am a machine learning engineer based in Kathmandu. Outside of work, I love watching movies and learning new languages.
+

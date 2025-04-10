@@ -1,7 +1,0 @@
----
-about:
-  template: trestles
-  image: profile.png
----
-
-Hi, I'm Joshana. I am a machine learning engineer based in Kathmandu. Outside of work, I love watching movies and learning new languages.

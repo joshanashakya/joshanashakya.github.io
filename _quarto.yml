@@ -8,10 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: About
-        href: about.qmd
-      # - research.qmd
-      # - blog.qmd
+      - href: publications.qmd
+      - href: projects.qmd
+      - href: blog.qmd
+      - href: cv.qmd
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/joshanashakya/
@@ -22,7 +22,6 @@ format:
   html:
     theme:
       - pulse
-      - brand
     css: styles.css
     toc: true
 

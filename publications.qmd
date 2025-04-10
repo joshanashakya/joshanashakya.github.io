@@ -1,0 +1,9 @@
+---
+title: "Publications"
+title-block-banner: "#EE9C15"
+---
+## 2024
+📄 **"Comparative Analysis of Transformer and CodeBERT for Program Translation"**  
+    *Bikash Balami*, **Joshana Shakya** <br>
+    *National College of Computer Studies Research Journal*, 2024  
+    [PDF](https://www.nepjol.info/index.php/nccsrj/article/view/72334/55218) | [DOI](https://doi.org/10.3126/nccsrj.v3i1.72334)

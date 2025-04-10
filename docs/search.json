@@ -1,23 +1,58 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Joshana Shakya",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Machine Learning, Data Structures, and Programming",
     "section": "",
     "text": "Hi, I’m Joshana. I am a machine learning engineer based in Kathmandu. Outside of work, I love watching movies and learning new languages."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "📄 “Comparative Analysis of Transformer and CodeBERT for Program Translation”\nBikash Balami, Joshana Shakya  National College of Computer Studies Research Journal, 2024\nPDF | DOI"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "📄 “Comparative Analysis of Transformer and CodeBERT for Program Translation”\nBikash Balami, Joshana Shakya  National College of Computer Studies Research Journal, 2024\nPDF | DOI"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation\n\n\n\nresearch\n\npython\n\ndissertation\n\nmsc\n\n\n\n\n\n\n\n\n\nJul 10, 2022\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/p1-dissertation.html",
+    "href": "projects/p1-dissertation.html",
+    "title": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation",
+    "section": "",
+    "text": "Program translation refers to the technical process of automatically converting the source codeof a computer program written in one programming language into an equivalent program inanother. Deep learning models like the transformer and Code Bidirectional EncoderRepresentations from Transformers (CodeBERT) models can be trained to perform suchprogram translation. This study compares the transformer model and the CodeBERT-basedencoder-decoder model on the program translation task. Specifically, it trains the 6 and12-layer models for 50 and 100 epochs to translate programs written in Java to Python andPython to Java.A total of 3133 Java-Python parallel programs were collected, and then the models weretrained using the preprocessed training data. To compare the models, the Bilingual EvaluationUnderstudy (BLEU) and CodeBLEU scores were calculated on the test dataset. Among different layered models, the transformer model with 6 layers trained for 50 epochs totranslate from Java to Python achieved the highest BLEU and CodeBLEU scores, with valuesof 0.2812 and 0.2802, respectively. Similarly, the transformer model with 6 layers trained for100 epochs to translate from Python to Java received the highest BLEU and CodeBLEUscores of 0.3891 and 0.4018, respectively.These results show that the transformer models perform better than the CodeBERT models. Also, the BLEU and CodeBLEU scores of the Java to Python and Python to Java translationmodels are different.\nKeywords: Machine Translation, Program Translation, Transformer, Code BidirectionalEncoder Representations from Transformers (CodeBERT), Bilingual Evaluation Understudy(BLEU), Code Bilingual Evaluation Understudy (CodeBLEU)"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "About this site"
+    "text": "Coming Soon!!!"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "projects/p1-dissertation.html#abstract",
+    "href": "projects/p1-dissertation.html#abstract",
+    "title": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation",
     "section": "",
-    "text": "About this site"
+    "text": "Program translation refers to the technical process of automatically converting the source codeof a computer program written in one programming language into an equivalent program inanother. Deep learning models like the transformer and Code Bidirectional EncoderRepresentations from Transformers (CodeBERT) models can be trained to perform suchprogram translation. This study compares the transformer model and the CodeBERT-basedencoder-decoder model on the program translation task. Specifically, it trains the 6 and12-layer models for 50 and 100 epochs to translate programs written in Java to Python andPython to Java.A total of 3133 Java-Python parallel programs were collected, and then the models weretrained using the preprocessed training data. To compare the models, the Bilingual EvaluationUnderstudy (BLEU) and CodeBLEU scores were calculated on the test dataset. Among different layered models, the transformer model with 6 layers trained for 50 epochs totranslate from Java to Python achieved the highest BLEU and CodeBLEU scores, with valuesof 0.2812 and 0.2802, respectively. Similarly, the transformer model with 6 layers trained for100 epochs to translate from Python to Java received the highest BLEU and CodeBLEUscores of 0.3891 and 0.4018, respectively.These results show that the transformer models perform better than the CodeBERT models. Also, the BLEU and CodeBLEU scores of the Java to Python and Python to Java translationmodels are different.\nKeywords: Machine Translation, Program Translation, Transformer, Code BidirectionalEncoder Representations from Transformers (CodeBERT), Bilingual Evaluation Understudy(BLEU), Code Bilingual Evaluation Understudy (CodeBLEU)"
+  },
+  {
+    "objectID": "projects/p1-dissertation.html#links",
+    "href": "projects/p1-dissertation.html#links",
+    "title": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation",
+    "section": "Links",
+    "text": "Links\n\nPublication\nResearchGate\nPoster Presentation"
   }
 ]
