@@ -1,6 +1,6 @@
 ---
 title: "News Aggregator"
-title-block-banner: "	#54930E"
+title-block-banner: "	#9278BA"
 date: "01/16/2020"
 image: "uu1.png"
 categories:
