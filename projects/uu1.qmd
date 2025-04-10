@@ -1,0 +1,13 @@
+---
+title: "News Aggregator"
+title-block-banner: "	#54930E"
+date: "01/16/2020"
+image: "uu1.png"
+categories:
+  - java
+  - msc
+---
+A news aggregator is a system that collects news articles from many different news sources. Here, the system implements spidering algorithm to collect news urls. The next step is to extract news title and text content from the collected urls. Additionally, it also performs clustering of news using KMeans clustering algorithm.
+
+## Links
+- [Github Repository](https://github.com/joshanashakya/newsaggregator)

@@ -1,0 +1,14 @@
+---
+title: "Structural SVM for Multi-label Text Classification"
+title-block-banner: "	#9278BA"
+date: "02/02/2021"
+categories:
+  - research
+  - python
+  - structural-svm
+  - msc
+---
+## Abstract
+Machine learning methods usually solve classification and regression problems with single output. To solve problems that include complex output spaces, strucured output prediction methods such as structural SVM are used. Multi-label classification problem involves predicting zero or more mutually non-exclusive class labels. Therefore, this problem has complex output space. The pystruct implementation of 1-slack structural SVM is used to perform multi-label classification of text documents. The performance evaluation shows that even thought less number of features are used the loss is relatively small.
+
+**Keywords:** *Hamming Loss, Multi-label Classification, Structural Support Vector Machine*

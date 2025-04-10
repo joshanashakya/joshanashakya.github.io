@@ -1,0 +1,17 @@
+---
+title: "Sentiment Analysis using Support Vector Machine"
+title-block-banner: "	#9278BA"
+date: "12/02/2019"
+categories:
+  - research
+  - java
+  - svm
+  - msc
+---
+## Abstract
+Sentiment analysis is an opinion mining process that categorizes the text into either positive or negative. Analyzing sentiment in text data sources like emails or social media posts provides businesses with key insights to understand what's behind decisions and behavior. The linear Support Vector Machine (SVM) is used with benchmark datasets for classification. To extract the feature N-grams: unigram, bigram and trigram; and different weighting schemes: TF-IDF, Binary Occurrence and Term Occurrence are used Chi-Squared weight is used to select most relevant features in the text.
+
+**Keywords:** *N-gram, TF-IDF, Binary Occurrence, Term Occurrence, Chi-Squared, Support Vector Machine.*
+
+## Links
+- [Github Repository](https://github.com/joshanashakya/sentimentanalysis)

@@ -25,7 +25,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation\n\n\n\nresearch\n\npython\n\ndissertation\n\nmsc\n\n\n\n\n\n\n\n\n\nJul 10, 2022\n\n\n\n\n\nNo matching items"
+    "text": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation\n\n\n\nresearch\n\npython\n\ndissertation\n\nmsc\n\n\n\n\n\n\n\n\n\nJul 10, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNeural Machine Translation with Attention Mechanism\n\n\n\nresearch\n\npython\n\nlr\n\nmsc\n\n\n\n\n\n\n\n\n\nNov 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nStructural SVM for Multi-label Text Classification\n\n\n\nresearch\n\npython\n\nstructural-svm\n\nmsc\n\n\n\n\n\n\n\n\n\nFeb 2, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nNews Aggregator\n\n\n\njava\n\nmsc\n\n\n\n\n\n\n\n\n\nJan 16, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nSentiment Analysis using Support Vector Machine\n\n\n\nresearch\n\njava\n\nsvm\n\nmsc\n\n\n\n\n\n\n\n\n\nDec 2, 2019\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/p1-dissertation.html",
@@ -54,5 +54,138 @@
     "title": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation",
     "section": "Links",
     "text": "Links\n\nPublication\nResearchGate\nPoster Presentation"
+  },
+  {
+    "objectID": "projects/p1_dissertation.html",
+    "href": "projects/p1_dissertation.html",
+    "title": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation",
+    "section": "",
+    "text": "Program translation refers to the technical process of automatically converting the source codeof a computer program written in one programming language into an equivalent program inanother. Deep learning models like the transformer and Code Bidirectional EncoderRepresentations from Transformers (CodeBERT) models can be trained to perform suchprogram translation. This study compares the transformer model and the CodeBERT-basedencoder-decoder model on the program translation task. Specifically, it trains the 6 and12-layer models for 50 and 100 epochs to translate programs written in Java to Python andPython to Java.A total of 3133 Java-Python parallel programs were collected, and then the models weretrained using the preprocessed training data. To compare the models, the Bilingual EvaluationUnderstudy (BLEU) and CodeBLEU scores were calculated on the test dataset. Among different layered models, the transformer model with 6 layers trained for 50 epochs totranslate from Java to Python achieved the highest BLEU and CodeBLEU scores, with valuesof 0.2812 and 0.2802, respectively. Similarly, the transformer model with 6 layers trained for100 epochs to translate from Python to Java received the highest BLEU and CodeBLEUscores of 0.3891 and 0.4018, respectively.These results show that the transformer models perform better than the CodeBERT models. Also, the BLEU and CodeBLEU scores of the Java to Python and Python to Java translationmodels are different.\nKeywords: Machine Translation, Program Translation, Transformer, Code BidirectionalEncoder Representations from Transformers (CodeBERT), Bilingual Evaluation Understudy(BLEU), Code Bilingual Evaluation Understudy (CodeBLEU)"
+  },
+  {
+    "objectID": "projects/p1_dissertation.html#abstract",
+    "href": "projects/p1_dissertation.html#abstract",
+    "title": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation",
+    "section": "",
+    "text": "Program translation refers to the technical process of automatically converting the source codeof a computer program written in one programming language into an equivalent program inanother. Deep learning models like the transformer and Code Bidirectional EncoderRepresentations from Transformers (CodeBERT) models can be trained to perform suchprogram translation. This study compares the transformer model and the CodeBERT-basedencoder-decoder model on the program translation task. Specifically, it trains the 6 and12-layer models for 50 and 100 epochs to translate programs written in Java to Python andPython to Java.A total of 3133 Java-Python parallel programs were collected, and then the models weretrained using the preprocessed training data. To compare the models, the Bilingual EvaluationUnderstudy (BLEU) and CodeBLEU scores were calculated on the test dataset. Among different layered models, the transformer model with 6 layers trained for 50 epochs totranslate from Java to Python achieved the highest BLEU and CodeBLEU scores, with valuesof 0.2812 and 0.2802, respectively. Similarly, the transformer model with 6 layers trained for100 epochs to translate from Python to Java received the highest BLEU and CodeBLEUscores of 0.3891 and 0.4018, respectively.These results show that the transformer models perform better than the CodeBERT models. Also, the BLEU and CodeBLEU scores of the Java to Python and Python to Java translationmodels are different.\nKeywords: Machine Translation, Program Translation, Transformer, Code BidirectionalEncoder Representations from Transformers (CodeBERT), Bilingual Evaluation Understudy(BLEU), Code Bilingual Evaluation Understudy (CodeBLEU)"
+  },
+  {
+    "objectID": "projects/p1_dissertation.html#links",
+    "href": "projects/p1_dissertation.html#links",
+    "title": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation",
+    "section": "Links",
+    "text": "Links\n\nPublication\nResearchGate\nPoster Presentation"
+  },
+  {
+    "objectID": "projects/p2_lr.html",
+    "href": "projects/p2_lr.html",
+    "title": "Neural Machine Translation with Attention Mechanism",
+    "section": "",
+    "text": "Machine Translation is a computerized technique for automatic translation from one language to another. Among different technologies for machine translation, the primary developments have been the rise of Neural Machine Translation. The neural machine translation system can be built using a sequence-to-sequence model with and without an attention mechanism. The vanilla sequence-to-sequence model stores sentence information of any length in a hidden vector of fixed size. On the other hand, the sequence-to-sequence model with an attention mechanism uses information about different parts of sentences. Both of these systems were designed using the TensorFlow platform to perform sentence-level translation from Nepali to English language; and BLEU score was used to evaluate the performance. The performance evaluation showed that the neural machine translation system translated better with sequence-to-sequence model using an attention mechanism.\nKeywords: Machine Translation, Neural Machine Translation, Sequence-to-Sequence Model, Attention Mechanism"
+  },
+  {
+    "objectID": "projects/p2_lr.html#abstract",
+    "href": "projects/p2_lr.html#abstract",
+    "title": "Neural Machine Translation with Attention Mechanism",
+    "section": "",
+    "text": "Machine Translation is a computerized technique for automatic translation from one language to another. Among different technologies for machine translation, the primary developments have been the rise of Neural Machine Translation. The neural machine translation system can be built using a sequence-to-sequence model with and without an attention mechanism. The vanilla sequence-to-sequence model stores sentence information of any length in a hidden vector of fixed size. On the other hand, the sequence-to-sequence model with an attention mechanism uses information about different parts of sentences. Both of these systems were designed using the TensorFlow platform to perform sentence-level translation from Nepali to English language; and BLEU score was used to evaluate the performance. The performance evaluation showed that the neural machine translation system translated better with sequence-to-sequence model using an attention mechanism.\nKeywords: Machine Translation, Neural Machine Translation, Sequence-to-Sequence Model, Attention Mechanism"
+  },
+  {
+    "objectID": "projects/p3_seminar.html",
+    "href": "projects/p3_seminar.html",
+    "title": "Structural SVM for Multi-label Text Classification",
+    "section": "",
+    "text": "Machine learning methods usually solve classification and regression problems with single output. To solve problems that include complex output spaces, strucured output prediction methods such as structural SVM are used. Multi-label classification problem involves predicting zero or more mutually non-exclusive class labels. Therefore, this problem has complex output space. The pystruct implementation of 1-slack structural SVM is used to perform multi-label classification of text documents. The performance evaluation shows that even thought less number of features are used the loss is relatively small.\nKeywords: Hamming Loss, Multi-label Classification, Structural Support Vector Machine"
+  },
+  {
+    "objectID": "projects/p3_seminar.html#abstract",
+    "href": "projects/p3_seminar.html#abstract",
+    "title": "Structural SVM for Multi-label Text Classification",
+    "section": "",
+    "text": "Machine learning methods usually solve classification and regression problems with single output. To solve problems that include complex output spaces, strucured output prediction methods such as structural SVM are used. Multi-label classification problem involves predicting zero or more mutually non-exclusive class labels. Therefore, this problem has complex output space. The pystruct implementation of 1-slack structural SVM is used to perform multi-label classification of text documents. The performance evaluation shows that even thought less number of features are used the loss is relatively small.\nKeywords: Hamming Loss, Multi-label Classification, Structural Support Vector Machine"
+  },
+  {
+    "objectID": "projects/u1_seminar.html",
+    "href": "projects/u1_seminar.html",
+    "title": "Sentiment Analysis using Support Vector Machine",
+    "section": "",
+    "text": "Sentiment analysis is an opinion mining process that categorizes the text into either positive or negative. Analyzing sentiment in text data sources like emails or social media posts provides businesses with key insights to understand what’s behind decisions and behavior. The linear Support Vector Machine (SVM) is used with benchmark datasets for classification. To extract the feature N-grams: unigram, bigram and trigram; and different weighting schemes: TF-IDF, Binary Occurrence and Term Occurrence are used Chi-Squared weight is used to select most relevant features in the text.\nKeywords: N-gram, TF-IDF, Binary Occurrence, Term Occurrence, Chi-Squared, Support Vector Machine."
+  },
+  {
+    "objectID": "projects/u1_seminar.html#abstract",
+    "href": "projects/u1_seminar.html#abstract",
+    "title": "Sentiment Analysis using Support Vector Machine",
+    "section": "",
+    "text": "Sentiment analysis is an opinion mining process that categorizes the text into either positive or negative. Analyzing sentiment in text data sources like emails or social media posts provides businesses with key insights to understand what’s behind decisions and behavior. The linear Support Vector Machine (SVM) is used with benchmark datasets for classification. To extract the feature N-grams: unigram, bigram and trigram; and different weighting schemes: TF-IDF, Binary Occurrence and Term Occurrence are used Chi-Squared weight is used to select most relevant features in the text.\nKeywords: N-gram, TF-IDF, Binary Occurrence, Term Occurrence, Chi-Squared, Support Vector Machine."
+  },
+  {
+    "objectID": "projects/u2_seminar.html",
+    "href": "projects/u2_seminar.html",
+    "title": "Structural SVM for Multi-label Text Classification",
+    "section": "",
+    "text": "Machine learning methods usually solve classification and regression problems with single output. To solve problems that include complex output spaces, strucured output prediction methods such as structural SVM are used. Multi-label classification problem involves predicting zero or more mutually non-exclusive class labels. Therefore, this problem has complex output space. The pystruct implementation of 1-slack structural SVM is used to perform multi-label classification of text documents. The performance evaluation shows that even thought less number of features are used the loss is relatively small.\nKeywords: Hamming Loss, Multi-label Classification, Structural Support Vector Machine"
+  },
+  {
+    "objectID": "projects/u2_seminar.html#abstract",
+    "href": "projects/u2_seminar.html#abstract",
+    "title": "Structural SVM for Multi-label Text Classification",
+    "section": "",
+    "text": "Machine learning methods usually solve classification and regression problems with single output. To solve problems that include complex output spaces, strucured output prediction methods such as structural SVM are used. Multi-label classification problem involves predicting zero or more mutually non-exclusive class labels. Therefore, this problem has complex output space. The pystruct implementation of 1-slack structural SVM is used to perform multi-label classification of text documents. The performance evaluation shows that even thought less number of features are used the loss is relatively small.\nKeywords: Hamming Loss, Multi-label Classification, Structural Support Vector Machine"
+  },
+  {
+    "objectID": "projects/u1_seminar.html#links",
+    "href": "projects/u1_seminar.html#links",
+    "title": "Sentiment Analysis using Support Vector Machine",
+    "section": "Links",
+    "text": "Links\n\nGithub Repository"
+  },
+  {
+    "objectID": "projects/u3_lr.html",
+    "href": "projects/u3_lr.html",
+    "title": "Neural Machine Translation with Attention Mechanism",
+    "section": "",
+    "text": "Machine Translation is a computerized technique for automatic translation from one language to another. Among different technologies for machine translation, the primary developments have been the rise of Neural Machine Translation. The neural machine translation system can be built using a sequence-to-sequence model with and without an attention mechanism. The vanilla sequence-to-sequence model stores sentence information of any length in a hidden vector of fixed size. On the other hand, the sequence-to-sequence model with an attention mechanism uses information about different parts of sentences. Both of these systems were designed using the TensorFlow platform to perform sentence-level translation from Nepali to English language; and BLEU score was used to evaluate the performance. The performance evaluation showed that the neural machine translation system translated better with sequence-to-sequence model using an attention mechanism.\nKeywords: Machine Translation, Neural Machine Translation, Sequence-to-Sequence Model, Attention Mechanism"
+  },
+  {
+    "objectID": "projects/u3_lr.html#abstract",
+    "href": "projects/u3_lr.html#abstract",
+    "title": "Neural Machine Translation with Attention Mechanism",
+    "section": "",
+    "text": "Machine Translation is a computerized technique for automatic translation from one language to another. Among different technologies for machine translation, the primary developments have been the rise of Neural Machine Translation. The neural machine translation system can be built using a sequence-to-sequence model with and without an attention mechanism. The vanilla sequence-to-sequence model stores sentence information of any length in a hidden vector of fixed size. On the other hand, the sequence-to-sequence model with an attention mechanism uses information about different parts of sentences. Both of these systems were designed using the TensorFlow platform to perform sentence-level translation from Nepali to English language; and BLEU score was used to evaluate the performance. The performance evaluation showed that the neural machine translation system translated better with sequence-to-sequence model using an attention mechanism.\nKeywords: Machine Translation, Neural Machine Translation, Sequence-to-Sequence Model, Attention Mechanism"
+  },
+  {
+    "objectID": "projects/u4_dissertation.html",
+    "href": "projects/u4_dissertation.html",
+    "title": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation",
+    "section": "",
+    "text": "Program translation refers to the technical process of automatically converting the source codeof a computer program written in one programming language into an equivalent program inanother. Deep learning models like the transformer and Code Bidirectional EncoderRepresentations from Transformers (CodeBERT) models can be trained to perform suchprogram translation. This study compares the transformer model and the CodeBERT-basedencoder-decoder model on the program translation task. Specifically, it trains the 6 and12-layer models for 50 and 100 epochs to translate programs written in Java to Python andPython to Java.A total of 3133 Java-Python parallel programs were collected, and then the models weretrained using the preprocessed training data. To compare the models, the Bilingual EvaluationUnderstudy (BLEU) and CodeBLEU scores were calculated on the test dataset. Among different layered models, the transformer model with 6 layers trained for 50 epochs totranslate from Java to Python achieved the highest BLEU and CodeBLEU scores, with valuesof 0.2812 and 0.2802, respectively. Similarly, the transformer model with 6 layers trained for100 epochs to translate from Python to Java received the highest BLEU and CodeBLEUscores of 0.3891 and 0.4018, respectively.These results show that the transformer models perform better than the CodeBERT models. Also, the BLEU and CodeBLEU scores of the Java to Python and Python to Java translationmodels are different.\nKeywords: Machine Translation, Program Translation, Transformer, Code BidirectionalEncoder Representations from Transformers (CodeBERT), Bilingual Evaluation Understudy(BLEU), Code Bilingual Evaluation Understudy (CodeBLEU)"
+  },
+  {
+    "objectID": "projects/u4_dissertation.html#abstract",
+    "href": "projects/u4_dissertation.html#abstract",
+    "title": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation",
+    "section": "",
+    "text": "Program translation refers to the technical process of automatically converting the source codeof a computer program written in one programming language into an equivalent program inanother. Deep learning models like the transformer and Code Bidirectional EncoderRepresentations from Transformers (CodeBERT) models can be trained to perform suchprogram translation. This study compares the transformer model and the CodeBERT-basedencoder-decoder model on the program translation task. Specifically, it trains the 6 and12-layer models for 50 and 100 epochs to translate programs written in Java to Python andPython to Java.A total of 3133 Java-Python parallel programs were collected, and then the models weretrained using the preprocessed training data. To compare the models, the Bilingual EvaluationUnderstudy (BLEU) and CodeBLEU scores were calculated on the test dataset. Among different layered models, the transformer model with 6 layers trained for 50 epochs totranslate from Java to Python achieved the highest BLEU and CodeBLEU scores, with valuesof 0.2812 and 0.2802, respectively. Similarly, the transformer model with 6 layers trained for100 epochs to translate from Python to Java received the highest BLEU and CodeBLEUscores of 0.3891 and 0.4018, respectively.These results show that the transformer models perform better than the CodeBERT models. Also, the BLEU and CodeBLEU scores of the Java to Python and Python to Java translationmodels are different.\nKeywords: Machine Translation, Program Translation, Transformer, Code BidirectionalEncoder Representations from Transformers (CodeBERT), Bilingual Evaluation Understudy(BLEU), Code Bilingual Evaluation Understudy (CodeBLEU)"
+  },
+  {
+    "objectID": "projects/u4_dissertation.html#links",
+    "href": "projects/u4_dissertation.html#links",
+    "title": "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation",
+    "section": "Links",
+    "text": "Links\n\nPublication\nResearchGate\nPoster Presentation"
+  },
+  {
+    "objectID": "projects/uu1.html",
+    "href": "projects/uu1.html",
+    "title": "News Aggregator",
+    "section": "",
+    "text": "A news aggregator is a system that collects news articles from many different news sources. Here, the system implements spidering algorithm to collect news urls. The next step is to extract news title and text content from the collected urls. Additionally, it also performs clustering of news using KMeans clustering algorithm."
+  },
+  {
+    "objectID": "projects/uu1.html#links",
+    "href": "projects/uu1.html#links",
+    "title": "News Aggregator",
+    "section": "Links",
+    "text": "Links\n\nGithub Repository"
   }
 ]

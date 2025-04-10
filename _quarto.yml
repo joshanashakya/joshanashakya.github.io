@@ -10,8 +10,7 @@ website:
         text: Home
       - href: publications.qmd
       - href: projects.qmd
-      - href: blog.qmd
-      - href: cv.qmd
+      # - href: blog.qmd
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/joshanashakya/

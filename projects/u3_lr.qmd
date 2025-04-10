@@ -1,0 +1,14 @@
+---
+title: "Neural Machine Translation with Attention Mechanism"
+title-block-banner: "	#9278BA"
+date: "11/01/2021"
+categories:
+  - research
+  - python
+  - lr
+  - msc
+---
+## Abstract
+Machine Translation is a computerized technique for automatic translation from one language to another. Among different technologies for machine translation, the primary developments have been the rise of Neural Machine Translation. The neural machine translation system can be built using a sequence-to-sequence model with and without an attention mechanism. The vanilla sequence-to-sequence model stores sentence information of any length in a hidden vector of fixed size. On the other hand, the sequence-to-sequence model with an attention mechanism uses information about different parts of sentences. Both of these systems were designed using the TensorFlow platform to perform sentence-level translation from Nepali to English language; and BLEU score was used to evaluate the performance. The performance evaluation showed that the neural machine translation system translated better with sequence-to-sequence model using an attention mechanism.
+
+**Keywords:** *Machine Translation, Neural Machine Translation, Sequence-to-Sequence Model, Attention Mechanism*

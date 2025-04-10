@@ -1,7 +1,9 @@
 ---
 title: "Comparative Analysis of Deep Learning Models (Transformer and CodeBERT) for Program Translation"
-title-block-banner: "	#54930E"
-date: "7/10/2022"
+title-block-banner: "	#9278BA"
+date: "07/10/2022"
+image: "p1.png"
+word-count: 10
 categories:
   - research
   - python
